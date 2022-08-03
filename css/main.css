@@ -1,3 +1,7 @@
+body {
+  background-color: cadetblue;
+}
+
 .box {
   display: flex;
   align-items: center;
